@@ -5,7 +5,7 @@
 *Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and [Bootstrap CSS Framework](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css) with HTML on the front end. 
 
 ## Demo
-*Friend Finder* is deployed to Heroku. Click here.
+*Friend Finder* is deployed to Heroku. Click [here](https://hari-friend-finder.herokuapp.com/).
 
 ## Installation
 To install the app follow these instructions:
