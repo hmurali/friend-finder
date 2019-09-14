@@ -13,7 +13,7 @@ var friendMatch = [
         scores: ['2', '4', '1', '1', '1', '1', '1', '2', '1', '5']
     }, {
         name: "Shawn Mendes",
-        photo: "https://en.wikipedia.org/wiki/File:Shawn_Mendes_at_The_Queen%27s_Birthday_Party_(cropped_2).jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Shawn_Mendes_at_The_Queen%27s_Birthday_Party_%28cropped_2%29.jpg/457px-Shawn_Mendes_at_The_Queen%27s_Birthday_Party_%28cropped_2%29.jpg",
         scores: ['4', '5', '4', '5', '4', '5', '4', '5', '4', '5']
     }, {
         name: "Ellen DeGeneres",
