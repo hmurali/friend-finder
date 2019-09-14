@@ -30,7 +30,7 @@ var friendMatch = [
     }, {
         name: "Camila Cabello",
         photo: "https://upload.wikimedia.org/wikipedia/commons/d/de/Camila_Cabello_VMA_2018.jpg",
-        scores: []
+        scores: ['3', '4', '5', '3', '4', '4', '4', '4', '4', '4']
     }, {
         name: "Kermit the Frog",
         photo: "http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg",
